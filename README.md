@@ -47,14 +47,12 @@
 <br>
 <hr>
 
-
 <p align="center">
 <!---<i><b><h2> GitHub Stats...📈  </b></i></h2>--->
 <img src="https://github-readme-stats.vercel.app/api?username=saloniankita&count_private=true&show_icons=true&theme=radical" alt="GitHub Status" width="450px">
 <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=saloniankita&show_icons=true&layout=compact&theme=radical" alt="Most Used Languages" width="380px">
 </p>
 
-<br />
 </details>
 <hr>
 <img align="right" alt="GIF" height="60px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
