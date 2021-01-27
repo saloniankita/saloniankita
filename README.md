@@ -1,7 +1,7 @@
 <p align="center"><img src="https://media.giphy.com/media/yl6yQcefy5GicjC0o1/giphy.gif" width="800px"></p>
 <h1 align="center"><img src="https://media.giphy.com/media/CV8n4vC6r9b5J3JZd9/giphy.gif" width="30px">  𝐇𝐞𝐥𝐥𝐨, <𝚍𝚎v𝚜/> ! 
 <br>
-<h1 align="center">Ankita Saloni this side<img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="120px">
+<h1 align="center">Ankita Saloni this side  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="120px">
 </h1>
 
 <p align="center">
@@ -46,14 +46,13 @@
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <br>
 <hr>
-<br>
+
 
 <p align="center">
 <!---<i><b><h2> GitHub Stats...📈  </b></i></h2>--->
 <img src="https://github-readme-stats.vercel.app/api?username=saloniankita&count_private=true&show_icons=true&theme=radical" alt="GitHub Status" width="450px">
-<img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=saloniankita&show_icons=true&layout=compact&theme=radical" alt="Most Used Languages" width="350px">
+<img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=saloniankita&show_icons=true&layout=compact&theme=radical" alt="Most Used Languages" width="380px">
 </p>
-
 
 <br />
 </details>
