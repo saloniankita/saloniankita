@@ -23,7 +23,6 @@
 - Desire to develop new possibilities in the field of **_Product Management_** and **_Machine Learning_** 💻
 - Ask me about anything, I am happy to help, if that is the secret recipe of my favourite dish.⚡️
 - Fun-Fact: Loves **_doodling_**, **_writing stories_** & above all, **_memes_** :sparkling_heart:
-<br>
 
 <hr>
 
