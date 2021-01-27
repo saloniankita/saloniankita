@@ -23,8 +23,7 @@
 - Desire to develop new possibilities in the field of **_Product Management_** and **_Machine Learning_** 💻
 - Ask me about anything, I am happy to help, if that is the secret recipe of my favourite dish.⚡️
 - Fun-Fact: Loves **_doodling_**, **_writing stories_** & above all, **_memes_** :sparkling_heart:
-
-<br><br>
+<br>
 
 <hr>
 
@@ -45,14 +44,14 @@
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-
+<br>
 <hr>
 <br>
 
 <p align="center">
-<i><b><h2> GitHub Stats...📈  </b></i></h2>
-<img src="https://github-readme-stats.vercel.app/api?username=saloniankita&count_private=true&show_icons=true&theme=radical" alt="GitHub Status"/>
-<img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=saloniankita&show_icons=true&layout=compact&theme=radical" alt="Most Used Languages">
+<!---<i><b><h2> GitHub Stats...📈  </b></i></h2>--->
+<img src="https://github-readme-stats.vercel.app/api?username=saloniankita&count_private=true&show_icons=true&theme=radical" alt="GitHub Status" width="450px">
+<img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=saloniankita&show_icons=true&layout=compact&theme=radical" alt="Most Used Languages" width="350px">
 </p>
 
 
