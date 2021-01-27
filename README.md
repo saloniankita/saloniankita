@@ -8,7 +8,7 @@
   <em>
     A 2nd year undergraduate pursuing B.Tech (CSE) from <a href="https://aktu.ac.in/"> <b>Dr. A. P. J. Abdul Kalam Technical University</b>, Uttar Pradesh</a>. <br>
     An aspiring <b>Product Manager </b>  and a <b>Machine Learning and Hackathon Enthusiast, </b>&nbsp<img src="https://media.giphy.com/media/7TcdtHOCxo3meUvPgj/giphy.gif" width="30px"> &nbsp <br><b>A learner</b>
-    with an insatiable thirst of learning and never-dying curiosity of <b>integrating</b> my existing knowledge and skill set with ever evolving world of ideas and technologies. <img src="https://media.giphy.com/media/fUXZfIDUl8K7lJJ9KK/giphy.gif" width="40px">
+    with an insatiable thirst for learning and never-dying curiosity of <b>integrating</b> my existing knowledge and skill set with ever evolving world of ideas and technologies. <img src="https://media.giphy.com/media/fUXZfIDUl8K7lJJ9KK/giphy.gif" width="40px">
   </em>
 </p>
 
