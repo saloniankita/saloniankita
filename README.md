@@ -60,10 +60,6 @@
 
 # Connect with me <img src="https://media.giphy.com/media/xT9DPIlGnuHpr2yObu/giphy.gif" height="50px">
 
-[<img align="left" alt="Ankita's_website" height="30px" src="https://www.flaticon.com/svg/static/icons/svg/2996/2996826.svg" />](https://saloniankita.github.io/)
-
-[<img align="left" alt="Ankita_Linkedin | LinkedIn" height="30px" src="https://www.flaticon.com/svg/static/icons/svg/725/725337.svg"/>](https://www.linkedin.com/in/saloniankita)
-
 <a href="https://twitter.com/saloniankita_">
   <img align="left" alt="Ankita Saloni | Twitter" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
