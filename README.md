@@ -6,7 +6,7 @@
 
 <p align="center">
   <em>
-    A 3rd year undergraduate pursuing B.Tech (CSE) from <a href="https://aktu.ac.in/"> <b>Dr. A. P. J. Abdul Kalam Technical University</b></a>, an aspiring <b>Product Manager </b>, <b>Hackathon Enthusiast, </b><b> and a learner</b>
+    A final year undergraduate pursuing B.Tech (CSE) from <a href="https://aktu.ac.in/"> <b>Dr. A. P. J. Abdul Kalam Technical University</b></a>, an aspiring <b>Product Manager </b>, <b>Hackathon Enthusiast, </b><b> and a learner</b>
     with an insatiable thirst for learning and never-dying curiosity of <b>integrating</b> my existing knowledge and skill set with ever evolving world of ideas and technologies.
   </em>
 </p>
@@ -52,19 +52,5 @@
 </p>
 
 </details>
-<hr>
-<img align="right" alt="GIF" height="60px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
-<h3><b> Thanks for stopping by my profile! </b></h3>
-
-
-# Connect with me <img src="https://media.giphy.com/media/xT9DPIlGnuHpr2yObu/giphy.gif" height="50px">
-
-<a href="https://twitter.com/saloniankita_">
-  <img align="left" alt="Ankita Saloni | Twitter" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
-</a>
-
-<a href="https://t.me/saloniankita">
-  <img align="left" alt="Ankita's Telegram" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
-</a>
 
 <img align="right" src="http://estruyf-github.azurewebsites.net/api/VisitorHit?user=saloniankita&repo=saloniankita&countColorcountColor&countColor=%237B1E7B"/>
