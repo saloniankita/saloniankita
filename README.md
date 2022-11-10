@@ -62,5 +62,5 @@
 
 <hr>
 
-<img align="right" src="http://estruyf-github.azurewebsites.net/api/VisitorHit?user=saloniankita&repo=saloniankita&countColorcountColor&countColor=%237B1E7B"/>
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=saloniankita&label=Stalkers+spotted&color=blue&style=plastic&style=for-the-badge" alt="saloniankita"/> </p>
 
