@@ -8,7 +8,7 @@
 
 <img align="right" width=300px alt="programmer life" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" />
 
-* Managing [Codess.Cafe](https://codess.cafe/) - A women based community with over 3k+ members. 💖
+* Managed [Codess.Cafe](https://codess.cafe/) - A women based community with over 3k+ members. 💖
 * Subject Matter Expert(SME) at [Chegg](https://www.chegg.com/).
 * Mentoring the underprivileged students through [MentorColor](https://mentorcolor.org/mentor/ankita-saloni-697).
 * Organising events & hackathons as a GitHub Campus Expert. Find me [here](https://githubcampus.expert/saloniankita/) 🚩
